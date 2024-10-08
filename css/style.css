@@ -1,0 +1,48 @@
+*{box-sizing:border-box}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    width:100%;
+    height: 35vh;
+    background-image: url('../images/micheile-henderson-ROsXqvRzhiQ-unsplash\ \(1\).jpg')
+}
+
+
+.header-layer{
+    width: 100%;
+    height: 80px;
+    padding: 10px 0;
+    background-color: cornsilk;
+}
+.se2-img{
+    border: 2px solid palevioletred;
+}
+.content-box{
+    margin: 0 auto;
+    padding: 15px 0;
+    width: 100px;
+    height: 100px;
+    color:white;
+    background-color: rgb(206, 13, 77);
+}
+
+#footer{
+    background-color: rgb(138, 3, 48);
+}
+
+#mainsection1{
+    margin: 15px 0;
+    padding: 20px 0;
+}
+
+.pink-text{
+    color: rgb(211, 41, 69);
+}
+.heading{
+    font-family: "Qwitcher Grypen", serif;
+    font-weight: 600;
+}
